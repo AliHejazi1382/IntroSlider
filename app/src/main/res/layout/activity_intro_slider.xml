@@ -51,5 +51,6 @@
         app:layout_constraintRight_toRightOf="parent"
         android:id="@+id/btnNext"
         android:background="@null"
+        android:text="@string/next"
         android:textColor="@android:color/white"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

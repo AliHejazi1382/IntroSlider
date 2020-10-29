@@ -14,7 +14,7 @@ public class IntroSliderPrefManager {
     }
 
     public void setPref(boolean seen) {
-        preferences.edit().putBoolean(KEY_VALUE, seen);
+        preferences.edit().putBoolean(KEY_VALUE, seen).apply();
     }
 
     public boolean getPref() {
