@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <color name="slide_1_bg_color">#f64c73</color>
+    <color name="slide_2_bg_color">#20d2bb</color>
+    <color name="slide_3_bg_color">#3395ff</color>
+    <color name="slide_4_bg_color">#bb68e6</color>
+
+    <color name="dot_incative">#a3a3a3</color>
+    <color name="dot_active">#ffffff</color>
 </resources>
